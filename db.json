@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "sku": "P01064",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone01",
+    "brand": "Apl",
+    "capacity": 64,
+    "price": 100,
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "sku": "P02064",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "iPhone 12 64",
+    "brand": "Apl",
+    "capacity": 64,
+    "price": 120,
+    "stock": 90
+  },
+  {
+    "id": 3,
+    "sku": "P03128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "iPhone 13 128",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 150,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "sku": "P04128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone04",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 170,
+    "stock": 90
+  },
+  {
+    "id": 5,
+    "sku": "P05128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone05",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 120,
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "sku": "P06256",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone06",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 140,
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "sku": "P07256",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone07",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 170,
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "sku": "P08128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/PhoneNN.webp",
+    "name": "Phone08",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 220,
+    "stock": 20
+  }
+]
