@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "sku": "AIP011QQQ064",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 11 64",
+    "brand": "Apple",
+    "capacity": 64,
+    "price": 9800,
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "sku": "AIP012QQQ064",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 12 64",
+    "brand": "Apple",
+    "capacity": 64,
+    "price": 12000,
+    "stock": 90
+  },
+  {
+    "id": 3,
+    "sku": "AIP013QQQ128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 13 128",
+    "brand": "Apple",
+    "capacity": 128,
+    "price": 15000,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "sku": "AIP012PMQ128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 12 Pro Max 128",
+    "brand": "Apple",
+    "capacity": 128,
+    "price": 17000,
+    "stock": 90
+  },
+  {
+    "id": 5,
+    "sku": "AIP011PQQ128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 11 Pro 128",
+    "brand": "Apple",
+    "capacity": 128,
+    "price": 12000,
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "sku": "AIP012QQQ256",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 12 256",
+    "brand": "Apple",
+    "capacity": 256,
+    "price": 14000,
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "sku": "AIP013QQQ256",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 13 256",
+    "brand": "Apple",
+    "capacity": 256,
+    "price": 17000,
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "sku": "AIP013PMQ128",
+    "category": "Electronic Devices",
+    "type": "Mobile Phones",
+    "name": "iPhone 13 Pro Max 128",
+    "brand": "Apple",
+    "capacity": 128,
+    "price": 22000,
+    "stock": 20
+  }
+]
