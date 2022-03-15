@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "sku": "P01064",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 1",
+    "brand": "Apl",
+    "capacity": 64,
+    "price": 100,
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "sku": "P02064",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 2",
+    "brand": "Apl",
+    "capacity": 64,
+    "price": 120,
+    "stock": 90
+  },
+  {
+    "id": 3,
+    "sku": "P03128",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 3",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 150,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "sku": "P04128",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 4",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 170,
+    "stock": 90
+  },
+  {
+    "id": 5,
+    "sku": "P05128",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 5",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 120,
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "sku": "P06256",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 6",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 140,
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "sku": "P07256",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 7",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 170,
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "sku": "P08128",
+    "category": "Tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+    "name": "Tablet 8",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 220,
+    "stock": 20
+  }
+]
