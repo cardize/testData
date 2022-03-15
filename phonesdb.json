@@ -35,7 +35,7 @@
   {
     "id": 4,
     "sku": "P04128",
-    "category": "Phones",
+    "category": "phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone 4",
     "brand": "Apl",
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "sku": "P05128",
-    "category": "Phones",
+    "category": "phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone 5",
     "brand": "Apl",
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "sku": "P06256",
-    "category": "Phones",
+    "category": "phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone 6",
     "brand": "Apl",
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "sku": "P07256",
-    "category": "Phones",
+    "category": "phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone 7",
     "brand": "Apl",
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "sku": "P08128",
-    "category": "Phones",
+    "category": "phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone 8",
     "brand": "Apl",
