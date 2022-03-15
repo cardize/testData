@@ -2,8 +2,7 @@
   {
     "id": 1,
     "sku": "P01064",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone01",
     "brand": "Apl",
@@ -14,8 +13,7 @@
   {
     "id": 2,
     "sku": "P02064",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone02",
     "brand": "Apl",
@@ -26,8 +24,7 @@
   {
     "id": 3,
     "sku": "P03128",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone03",
     "brand": "Apl",
@@ -38,8 +35,7 @@
   {
     "id": 4,
     "sku": "P04128",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone04",
     "brand": "Apl",
@@ -50,8 +46,7 @@
   {
     "id": 5,
     "sku": "P05128",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone05",
     "brand": "Apl",
@@ -62,8 +57,7 @@
   {
     "id": 6,
     "sku": "P06256",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone06",
     "brand": "Apl",
@@ -74,8 +68,7 @@
   {
     "id": 7,
     "sku": "P07256",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone07",
     "brand": "Apl",
@@ -86,8 +79,7 @@
   {
     "id": 8,
     "sku": "P08128",
-    "category": "Electronic Devices",
-    "type": "Mobile Phones",
+    "category": "Phones",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
     "name": "Phone08",
     "brand": "Apl",
