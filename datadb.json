@@ -96,5 +96,52 @@
     "quentity": 1,
     "stock": 20
   }
- ]
+ ], "laptops":[{
+    "id": 1,
+    "sku": "P01064",
+    "category": "laptops",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.png",
+    "name": "Laptop 1",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 1000,
+    "quentity": 1,
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "sku": "P02064",
+    "category": "laptops",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.png",
+    "name": "Laptop 2",
+    "brand": "Apl",
+    "capacity": 256,
+    "price": 1200,
+    "quentity": 1,
+    "stock": 90
+  },
+  {
+    "id": 3,
+    "sku": "P03128",
+    "category": "tablets",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.png",
+    "name": "Laptop 3",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 1500,
+    "quentity": 1,
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "sku": "P04128",
+    "category": "laptops",
+    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.png",
+    "name": "Laptop 4",
+    "brand": "Apl",
+    "capacity": 128,
+    "price": 1700,
+    "quentity": 1,
+    "stock": 90
+  }]
 }
