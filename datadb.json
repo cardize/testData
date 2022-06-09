@@ -101,7 +101,7 @@
  "laptops":
  [
   {
-    "id": 1,
+    "id": 9,
     "sku": "P01064",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
@@ -113,7 +113,7 @@
     "stock": 90
   },
   {
-    "id": 2,
+    "id": 10,
     "sku": "P02064",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
@@ -125,7 +125,7 @@
     "stock": 90
   },
   {
-    "id": 3,
+    "id": 11,
     "sku": "P03128",
     "category": "tablets",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
@@ -137,7 +137,7 @@
     "stock": 100
   },
   {
-    "id": 4,
+    "id": 12,
     "sku": "P04128",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
@@ -152,7 +152,7 @@
  "tablets":
  [
   {
-    "id": 1,
+    "id": 13,
     "sku": "P01064",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
@@ -164,7 +164,7 @@
     "stock": 90
   },
   {
-    "id": 2,
+    "id": 14,
     "sku": "P02064",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
@@ -176,7 +176,7 @@
     "stock": 90
   },
   {
-    "id": 3,
+    "id": 15,
     "sku": "P03128",
     "category": "tablets",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
@@ -188,7 +188,7 @@
     "stock": 100
   },
   {
-    "id": 4,
+    "id": 16,
     "sku": "P04128",
     "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
