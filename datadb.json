@@ -1,4 +1,6 @@
-{ "phones":[{
+{ "phones":
+ [
+    {
     "id": 1,
     "sku": "P01064",
     "category": "phones",
@@ -93,5 +95,6 @@
     "price": 220,
     "quentity": 1,
     "stock": 20
-  }]
+  }
+ ]
 }
