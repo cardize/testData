@@ -96,7 +96,11 @@
     "quentity": 1,
     "stock": 20
   }
- ], "laptops":[{
+ ],
+ 
+ "laptops":
+ [
+  {
     "id": 1,
     "sku": "P01064",
     "category": "laptops",
@@ -143,5 +147,6 @@
     "price": 1700,
     "quentity": 1,
     "stock": 90
-  }]
+  }
+ ]
 }
