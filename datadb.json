@@ -1,4 +1,6 @@
 
+{
+ "phones":
  [
     {
     "id": 1,
@@ -95,7 +97,10 @@
     "price": 220,
     "quantity": 1,
     "stock": 20
-  },
+  }
+ ],
+ "laptops":
+ [
   {
     "id": 9,
     "sku": "P01064",
@@ -123,7 +128,7 @@
   {
     "id": 11,
     "sku": "P03128",
-    "category": "tablets",
+    "category": "laptops",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
     "name": "Laptop 3",
     "brand": "Apl",
@@ -143,11 +148,13 @@
     "price": 1700,
     "quantity": 1,
     "stock": 90
-  },
+  }],
+ "tablets":
+ [
   {
     "id": 13,
     "sku": "P01064",
-    "category": "laptops",
+    "category": "tablets",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
     "name": "Tablet 1",
     "brand": "Apl",
@@ -159,7 +166,7 @@
   {
     "id": 14,
     "sku": "P02064",
-    "category": "laptops",
+    "category": "tablets",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
     "name": "Tablet 2",
     "brand": "Apl",
@@ -183,7 +190,7 @@
   {
     "id": 16,
     "sku": "P04128",
-    "category": "laptops",
+    "category": "tablets",
     "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
     "name": "Tablet 4",
     "brand": "Apl",
@@ -192,5 +199,5 @@
     "quantity": 1,
     "stock": 90
   }
- ]
+ ]}
 
