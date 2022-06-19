@@ -1,201 +1,200 @@
-
 {
-    "phones":[
+  "phones": [
     {
-    "id": 1,
-    "sku": "P01064",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 1",
-    "brand": "Apl",
-    "capacity": 64,
-    "price": 100,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 2,
-    "sku": "P02064",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 2",
-    "brand": "Apl",
-    "capacity": 64,
-    "price": 120,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 3,
-    "sku": "P03128",
-    "category": "tablets",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 3",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 150,
-    "quantity": 1,
-    "stock": 100
-  },
-  {
-    "id": 4,
-    "sku": "P04128",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 4",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 170,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 5,
-    "sku": "P05128",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 5",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 120,
-    "quantity": 1,
-    "stock": 20
-  },
-  {
-    "id": 6,
-    "sku": "P06256",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 6",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 140,
-    "quantity": 1,
-    "stock": 20
-  },
-  {
-    "id": 7,
-    "sku": "P07256",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 7",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 170,
-    "quantity": 1,
-    "stock": 20
-  },
-  {
-    "id": 8,
-    "sku": "P08128",
-    "category": "phones",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
-    "name": "Phone 8",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 220,
-    "quantity": 1,
-    "stock": 20
-  }],
-"laptops":
-[
-  {
-    "id": 9,
-    "sku": "P01064",
-    "category": "laptops",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
-    "name": "Laptop 1",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 1000,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 10,
-    "sku": "P02064",
-    "category": "laptops",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
-    "name": "Laptop 2",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 1200,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 11,
-    "sku": "P03128",
-    "category": "laptops",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
-    "name": "Laptop 3",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 1500,
-    "quantity": 1,
-    "stock": 100
-  },
-  {
-    "id": 12,
-    "sku": "P04128",
-    "category": "laptops",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
-    "name": "Laptop 4",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 1700,
-    "quantity": 1,
-    "stock": 90
-  }],
-"tablets":
-[
-  {
-    "id": 13,
-    "sku": "P01064",
-    "category": "tablets",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
-    "name": "Tablet 1",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 1000,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 14,
-    "sku": "P02064",
-    "category": "tablets",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
-    "name": "Tablet 2",
-    "brand": "Apl",
-    "capacity": 256,
-    "price": 1050,
-    "quantity": 1,
-    "stock": 90
-  },
-  {
-    "id": 15,
-    "sku": "P03128",
-    "category": "tablets",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
-    "name": "Tablet 3",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 1100,
-    "quantity": 1,
-    "stock": 100
-  },
-  {
-    "id": 16,
-    "sku": "P04128",
-    "category": "tablets",
-    "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
-    "name": "Tablet 4",
-    "brand": "Apl",
-    "capacity": 128,
-    "price": 1200,
-    "quantity": 1,
-    "stock": 90
-  }
- ]
+      "id": 1,
+      "sku": "P01064",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 1",
+      "brand": "Apl",
+      "capacity": 64,
+      "price": 100,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 2,
+      "sku": "P02064",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 2",
+      "brand": "Apl",
+      "capacity": 64,
+      "price": 120,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 3,
+      "sku": "P03128",
+      "category": "tablets",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 3",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 150,
+      "quantity": 1,
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "sku": "P04128",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 4",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 170,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 5,
+      "sku": "P05128",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 5",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 120,
+      "quantity": 1,
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "sku": "P06256",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 6",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 140,
+      "quantity": 1,
+      "stock": 20
+    },
+    {
+      "id": 7,
+      "sku": "P07256",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 7",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 170,
+      "quantity": 1,
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "sku": "P08128",
+      "category": "phones",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/phones.png",
+      "name": "Phone 8",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 220,
+      "quantity": 1,
+      "stock": 20
+    }
+  ],
+  "laptops": [
+    {
+      "id": 9,
+      "sku": "P01064",
+      "category": "laptops",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
+      "name": "Laptop 1",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 1000,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 10,
+      "sku": "P02064",
+      "category": "laptops",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
+      "name": "Laptop 2",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 1200,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 11,
+      "sku": "P03128",
+      "category": "laptops",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
+      "name": "Laptop 3",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 1500,
+      "quantity": 1,
+      "stock": 100
+    },
+    {
+      "id": 12,
+      "sku": "P04128",
+      "category": "laptops",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/laptops.jpg",
+      "name": "Laptop 4",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 1700,
+      "quantity": 1,
+      "stock": 90
+    }
+  ],
+  "tablets": [
+    {
+      "id": 13,
+      "sku": "P01064",
+      "category": "tablets",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+      "name": "Tablet 1",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 1000,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 14,
+      "sku": "P02064",
+      "category": "tablets",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+      "name": "Tablet 2",
+      "brand": "Apl",
+      "capacity": 256,
+      "price": 1050,
+      "quantity": 1,
+      "stock": 90
+    },
+    {
+      "id": 15,
+      "sku": "P03128",
+      "category": "tablets",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+      "name": "Tablet 3",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 1100,
+      "quantity": 1,
+      "stock": 100
+    },
+    {
+      "id": 16,
+      "sku": "P04128",
+      "category": "tablets",
+      "Img": "https://raw.githubusercontent.com/cardize/testData/main/tablets.png",
+      "name": "Tablet 4",
+      "brand": "Apl",
+      "capacity": 128,
+      "price": 1200,
+      "quantity": 1,
+      "stock": 90
+    }
+  ]
 }
