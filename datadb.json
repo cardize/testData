@@ -1,7 +1,5 @@
 
-{
- "phones":
- [
+[
     {
     "id": 1,
     "sku": "P01064",
@@ -97,10 +95,7 @@
     "price": 220,
     "quantity": 1,
     "stock": 20
-  }
- ],
- "laptops":
- [
+  },
   {
     "id": 9,
     "sku": "P01064",
@@ -148,9 +143,7 @@
     "price": 1700,
     "quantity": 1,
     "stock": 90
-  }],
- "tablets":
- [
+  },
   {
     "id": 13,
     "sku": "P01064",
@@ -199,5 +192,5 @@
     "quantity": 1,
     "stock": 90
   }
- ]}
+ ]
 
